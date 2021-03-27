@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/journalSimSearch/static/css/main.273ea3de.chunk.css",
+    "main.js": "/journalSimSearch/static/js/main.80979422.chunk.js",
+    "main.js.map": "/journalSimSearch/static/js/main.80979422.chunk.js.map",
+    "runtime-main.js": "/journalSimSearch/static/js/runtime-main.1556de40.js",
+    "runtime-main.js.map": "/journalSimSearch/static/js/runtime-main.1556de40.js.map",
+    "static/js/2.199d3ad6.chunk.js": "/journalSimSearch/static/js/2.199d3ad6.chunk.js",
+    "static/js/2.199d3ad6.chunk.js.map": "/journalSimSearch/static/js/2.199d3ad6.chunk.js.map",
+    "static/js/3.d9d78b3f.chunk.js": "/journalSimSearch/static/js/3.d9d78b3f.chunk.js",
+    "static/js/3.d9d78b3f.chunk.js.map": "/journalSimSearch/static/js/3.d9d78b3f.chunk.js.map",
+    "index.html": "/journalSimSearch/index.html",
+    "static/css/main.273ea3de.chunk.css.map": "/journalSimSearch/static/css/main.273ea3de.chunk.css.map",
+    "static/js/2.199d3ad6.chunk.js.LICENSE.txt": "/journalSimSearch/static/js/2.199d3ad6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1556de40.js",
+    "static/js/2.199d3ad6.chunk.js",
+    "static/css/main.273ea3de.chunk.css",
+    "static/js/main.80979422.chunk.js"
+  ]
+}
